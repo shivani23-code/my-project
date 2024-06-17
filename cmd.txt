@@ -1,0 +1,69 @@
+
+pip install flask_mysqldb  
+
+pip install wheel  
+pip install mysql-connector
+
+
+pip uninstall mediapipe
+pip install mediapipe==0.8.8
+
+
+Bad handshake Error:
+
+python -m pip uninstall mysql-connector
+
+python -m pip install mysql-connector
+pip install wheel 
+
+OS Error:
+pip install packagename --user
+Example:pip install sklearn --user
+
+
+import name 'tf2' error:
+pip install keras==2.6
+pip install --disable-pip-version-check --no-cache-dir tensorflow
+
+
+
+dll error:
+
+pip install msvc-runtime
+
+Project link
+https://medium.datadriveninvestor.com/140-python-projects-with-source-code-fa12c9e2aeac
+
+no module name object detection:
+
+
+pip install tensorflow-object-detection-api
+
+Cv2.error: Unknown C++ exception from OpenCV code
+pip install opencv-python==4.5.1.48
+
+pip install opencv-contrib-python==4.5.1.48
+
+pip install opencv-python==4.6.0.66
+
+
+for drive drowsiness 
+cmake download
+add path 
+and install
+
+pip install dlib-19.22.99-cp39-cp39-win_amd64.whl
+pip install cmake
+
+App Password:
+sarun140689@gmail.com
+almqpdhzxzerjmqj
+
+
+SEATTLECBE5 app password:
+elptozjnfxdjdjlu
+
+SEATTLECBE4
+kyusxwezrygwkgcu
+
+
